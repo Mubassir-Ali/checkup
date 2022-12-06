@@ -1,6 +1,6 @@
 # API Documentation
 
-### Getting Star
+### Getting Start
 *  clone project
 *  Run following command to start project
 ```
