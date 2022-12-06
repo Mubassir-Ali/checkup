@@ -8,6 +8,12 @@
 
     node index.js
 ```
+* Sign Up to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
+    * create cluster
+    * create user
+    * create connection string application
+    * paste connection string into config.env "DATABASE", replace <user> and <password> with your own credential
+
 
 
 
