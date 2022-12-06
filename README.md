@@ -13,8 +13,9 @@
     * create user
     * create connection string application
     * paste connection string into config.env "DATABASE", replace <user> and <password> with your own credential
-
-
+### OR
+* Local MongoDB setup
+---
 
 
 ## Employee endpoint
